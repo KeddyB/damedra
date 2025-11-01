@@ -107,7 +107,7 @@ export default function ContactForm() {
           )}
         />
 
-        <FormField
+        {/* <FormField
           control={form.control}
           name="service"
           render={({ field }) => (
@@ -131,7 +131,7 @@ export default function ContactForm() {
               <FormMessage />
             </FormItem>
           )}
-        />
+        /> */}
 
         <FormField
           control={form.control}
