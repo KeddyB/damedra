@@ -277,7 +277,7 @@ export default function Home() {
                         <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
                       </svg>
                     </div>
-                    <span>contact@damedra.com</span>
+                    <span>dokedusi@gmail.com</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <div className="h-10 w-10 rounded-full bg-primary/10 flex items-center justify-center">
@@ -311,7 +311,7 @@ export default function Home() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="icon" asChild>
-                  <Link href="https://tiktok.com/@_damedra" target="_blank" aria-label="TikTok">
+                  <Link href="https://tiktok.com/@damedra" target="_blank" aria-label="TikTok">
                     <Music className="h-5 w-5" />
                   </Link>
                 </Button>
