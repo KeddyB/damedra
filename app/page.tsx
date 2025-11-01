@@ -163,12 +163,12 @@ export default function Home() {
                     </Link>
                   </Button>
                   <Button variant="outline" size="icon" asChild>
-                    <Link href="https://tiktok.com/@_damedra" target="_blank" aria-label="TikTok">
+                    <Link href="https://tiktok.com/@damedra" target="_blank" aria-label="TikTok">
                       <Music className="h-5 w-5" />
                     </Link>
                   </Button>
                   <Button variant="outline" size="icon" asChild>
-                    <Link href="https://youtube.com" target="_blank" aria-label="YouTube">
+                    <Link href="https://youtube.com/channel/UCF58YVarYURcRL7pad6BWXg?si=VrnWudaOUtN_fxpj" target="_blank" aria-label="YouTube">
                       <Youtube className="h-5 w-5" />
                     </Link>
                   </Button>
@@ -316,7 +316,7 @@ export default function Home() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="icon" asChild>
-                  <Link href="https://youtube.com" target="_blank" aria-label="YouTube">
+                  <Link href="https://youtube.com/channel/UCF58YVarYURcRL7pad6BWXg?si=VrnWudaOUtN_fxpj" target="_blank" aria-label="YouTube">
                     <Youtube className="h-5 w-5" />
                   </Link>
                 </Button>
