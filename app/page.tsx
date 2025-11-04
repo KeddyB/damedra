@@ -225,6 +225,12 @@ export default function Home() {
                 spotifyTrackId="3r4c2w160gnTV86XUpXR3z"
                 tags={["Afrofusion", "Soul", "Empowering"]}
               />
+              <SpotifyPlayer
+                title="Carry me go"
+                description="Afrobeat-inspired love song that blends heartfelt lyrics with gentle rhythms, creating a warm, romantic vibe perfect for late-night listening"
+                spotifyTrackId="58LQFhHKb87QAXnXs2mEuA"
+                tags={["AfroBeat", "Vibe", "❤️"]}
+              />
             </div>
 
             <div className="text-center mt-8">
