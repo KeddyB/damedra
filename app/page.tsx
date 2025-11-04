@@ -218,7 +218,7 @@ export default function Home() {
               </p>
             </div>
 
-            <div className="max-w-md mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
               <SpotifyPlayer
                 title="2nite"
                 description="A spiritual yet sensual journey merging poetic lyricism with infectious rhythm"
